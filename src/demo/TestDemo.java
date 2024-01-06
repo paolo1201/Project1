@@ -7,6 +7,8 @@ public class TestDemo {
 		
 		System.out.println("Friday");
 		System.out.println("im sick");
+		
+		//stashing....
 	}
 
 }
